@@ -1,5 +1,3 @@
-console.log("Hello.");
-
 
 function translate(originalString) {
     const leetDictionary = {
@@ -36,6 +34,15 @@ function translate(originalString) {
 }
 
 const addressBook = {
-    
-}
+    DigitalCrafts: {
+        phone: '404-555-1234', 
+        address: '3423 Piedmont', 
+        city: 'Atlanta'
+    },
+    "Rebecca Uranga": {
+        phone: '404-123-0000', 
+        address: 'Main Street USA', 
+        city: 'Atlanta',
+    },
+};
 
